@@ -1,0 +1,34 @@
+#a{
+    border: 5px solid #EDE8DC;
+    margin-top: 0px;
+    width: 50%;
+    width: 90%;
+    margin-left: 0%;
+    background-color: #EDE8DC;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3), 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+body{  
+background-color: #E7CCCC;
+}
+p{
+    margin: 1%;
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-bottom: 15px;  
+}
+#b{
+    text-align: center;
+    color: #afcc6a;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 25%;
+    font-family: "Libre Baskerville",serif;
+}
+img{
+    width: 90%;
+    display: block;
+    border: 5px solid #EDE8DC;  
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3), 0px 4px 10px rgba(0, 0, 0, 0.1); 
+}
